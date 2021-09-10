@@ -1,7 +1,3 @@
-'''
-This problem is a solution of
-Problem 1 of CodeWithHarry Practice Set!
-'''
 # This is also a comment just like the above line
 
 print('''Twinkle, twinkle, little star,
