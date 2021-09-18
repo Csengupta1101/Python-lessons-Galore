@@ -1,7 +1,7 @@
 # ![python](https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=647&q=80)
 
 # Python - Overview
-This entire repository is dedicated to budding python enthusiats.
+This entire repository is dedicated to budding python enthusiats. Hope you will enjoy it.
 
 ## History
 
